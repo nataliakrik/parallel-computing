@@ -67,13 +67,14 @@ Exercises that help you understand parallel-computing using different mechanisms
    A global struct object is used to count the non zero elements of the array.
 
 
+```sh
    struct array_stats_s {
       long long int info_array_0;
       long long int info_array_1;
       long long int info_array_2;
       long long int info_array_3;
    } array_stats;
-   
+```
    Notice: The structure fields are stored in the same 64 byte cache line.
    So each thread that updates each variable interferes with the nearby variables.
    This can be solved by storing each variable in one whole line using char pad0[56]; 
