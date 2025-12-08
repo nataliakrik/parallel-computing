@@ -1,8 +1,4 @@
-# ${\color{lightblue}Parallel \space Computing}$
 # ${\color{red}Parallel \space Computing}$
-
-Exercises that help you understand parallel-computing using different mechanisms.
-
 
 
 <!-- TABLE OF CONTENTS -->
