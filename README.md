@@ -36,7 +36,7 @@ Exercises that help you understand parallel-computing using different mechanisms
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ${\color{yellow}About \space The \space Project}$
 
 ### Exercise1
    Creates 2 polynomials of a given degree. 
