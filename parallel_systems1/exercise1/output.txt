@@ -1,0 +1,47 @@
+_______________________________________________________________________________
+Running on my pc
+________________
+n = 10^5    NUM_THREADS 4
+
+The arrays contain the same data
+Execution Time
+Initialization:   3633932 ns
+
+Sequential:     4971803522 ns
+Parallel:       1375078121 ns
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+n = 10^5    NUM_THREADS 8
+
+The arrays contain the same data
+Execution Time
+Initialization:   3384836 ns
+
+Sequential:     5121473299 ns
+Parallel:       1054209613 ns
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+n = 10^6    NUM_THREADS 8
+
+The arrays contain the same data
+Execution Time
+Initialization:   36328191 ns
+
+Sequential:     1165619351657 ns
+Parallel:       747423585422 ns
+
+_______________________________________________________________________________
+Running on linux23
+________________
+./bin/test 100000
+
+
+The arrays contain the same data
+Execution Time
+Initialization:   3937715 ns
+
+Sequential:     5990949129 ns
+Parallel:       2158690117 ns
+

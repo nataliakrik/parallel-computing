@@ -1,0 +1,51 @@
+Running on my PC
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+input : 10000
+
+Initialization: 508220 ns
+Parallel:       496530 ns
+Sequential:     97085 ns
+_________________
+input :  100000
+
+Initialization: 4480797 ns
+Parallel:       1540315 ns
+Sequential:     412476 ns
+_________________
+input : 1000000
+
+Initialization: 61559666 ns
+Parallel:       13399103 ns
+Sequential:     4545009 ns
+_________________
+input : 10000000
+
+Initialization: 652300817 ns
+Parallel:       132870992 ns
+Sequential:     41240912 ns
+_________________
+input : 100000000
+
+Initialization: 6853859691 ns
+Parallel:       1302762914 ns
+Sequential:     554838680 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running on linux23.di.uoa.gr
+_________________
+./bin/test 10000000
+
+
+Initialization: 461674238 ns
+Parallel:       31594927 ns
+Sequential:     63600833 ns
+
+_________________
+./bin/test 100000000
+
+
+Initialization: 4612056329 ns
+Parallel:       246401963 ns
+Sequential:     635461939 ns
+

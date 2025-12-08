@@ -1,0 +1,76 @@
+Running on my pc
+__________________
+NUM_THREADS 4
+ITERATIONS 10^4
+
+MUTEX locks:            1625541 ns
+READ-WRITE LOCKS:       1933759 ns
+Atomic Lock:            1597818 ns
+
+__________________
+NUM_THREADS 4
+ITERATIONS 10^5
+
+MUTEX locks:            8829603 ns
+READ-WRITE LOCKS:       12156906 ns
+Atomic Lock:            3203902 ns
+__________________
+NUM_THREADS 4
+ITERATIONS 10^5
+
+MUTEX locks:            13176914 ns
+READ-WRITE LOCKS:       19951720 ns
+Atomic Lock:            3672233 ns
+
+__________________
+NUM_THREADS 4
+ITERATIONS 10^7
+
+MUTEX locks:            1355148860 ns
+READ-WRITE LOCKS:       2335907130 ns
+Atomic Lock:            377735822 ns
+
+------------------------------------------------
+________________________________________________
+NUM_THREADS 8
+ITERATIONS 10^4
+
+MUTEX locks:            3038789 ns
+READ-WRITE LOCKS:       2925456 ns
+Atomic Lock:            2535006 ns
+
+__________________
+NUM_THREADS 8
+ITERATIONS 10^5
+
+MUTEX locks:            17296019 ns
+READ-WRITE LOCKS:       64991666 ns
+Atomic Lock:            7275147 ns
+__________________
+NUM_THREADS 8
+ITERATIONS 10^6
+
+MUTEX locks:            187571576 ns
+READ-WRITE LOCKS:       588800175 ns
+Atomic Lock:            65224099 ns
+
+__________________
+NUM_THREADS 8
+ITERATIONS 10^7
+
+MUTEX locks:            1935155501 ns
+READ-WRITE LOCKS:       5497692913 ns
+Atomic Lock:            676529089 ns
+
+
+------------------------------------------------
+________________________________________________
+Running on Linux23
+__________________
+NUM_THREADS 8
+ITERATIONS 10^7
+
+
+MUTEX locks:            3067183234 ns
+READ-WRITE LOCKS:       10779016693 ns
+Atomic Lock:            974844457 ns
