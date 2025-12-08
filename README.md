@@ -144,23 +144,19 @@ Instructions on compiling and running the code
 <!-- PC STATS -->
 ## ${\color{yellow}MY \space PC \space STATS}$
 
-| ---------: | ----------------------------------------: |
-|     CPU    |   AMD Ryzen 7 5700U with Radeon Graphics  |
-|  CPU CORES |     8 (16 NumberOfLogicalProcessors)      |
-|     OS     |         Microsoft Windows 11 Pro          |
-| OS VERSION |        10.0.26200 N/A Build 26200         |
-|  COMPILLER | gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0 |
+|     CPU    -:|   AMD Ryzen 7 5700U with Radeon Graphics  |
+|  CPU CORES -:|     8 (16 NumberOfLogicalProcessors)      |
+|     OS     -:|         Microsoft Windows 11 Pro          |
+| OS VERSION -:|        10.0.26200 N/A Build 26200         |
+|  COMPILLER -:| gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0 |
 
 
-|                   CPU                  |            CPU CORES             |            OS            |         OS VERSION         |                 COMPILLER                 |
-| -------------------------------------- | -------------------------------- | ------------------------ | -------------------------- | ----------------------------------------- |
-| AMD Ryzen 7 5700U with Radeon Graphics | 8 (16 NumberOfLogicalProcessors) | Microsoft Windows 11 Pro | 10.0.26200 N/A Build 26200 | gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0 |
 
-CPU: AMD Ryzen 7 5700U with Radeon Graphics \\
-CPU CORES: 8 (16 NumberOfLogicalProcessors) \\
-OS: Microsoft Windows 11 Pro
-OS VERSION: 10.0.26200 N/A Build 26200
-COMPILLER: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+|                   CPU                  |               CPU CORES              |            OS            |         OS VERSION         |                 COMPILLER                 |
+| -------------------------------------- | ------------------------------------ | ------------------------ | -------------------------- | ----------------------------------------- |
+| AMD Ryzen 7 5700U with Radeon Graphics | 8 (16 Numbers Of Logical Processors) | Microsoft Windows 11 Pro | 10.0.26200 N/A Build 26200 | gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0 |
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
