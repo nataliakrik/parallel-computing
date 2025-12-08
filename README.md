@@ -1,4 +1,6 @@
 # parallel-computing
+<span style="color:light-green; font-weight:bold; font-size:x-large">parallel-computing</span>
+
 Exercises that help you understand parallel-computing using different mechanisms.
 
 
