@@ -1,5 +1,4 @@
-# <code style="color : gold">text</code>
-$${\color{red}Red}$$
+# ${\color{red}Parallel Computing}$
 
 
 Exercises that help you understand parallel-computing using different mechanisms.
