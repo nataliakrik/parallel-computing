@@ -3,7 +3,7 @@
 <span style="color:green; font-weight:bold">Bold green text</span>
 <span style="color:#00bfff">Sky blue text</span>
 <span style="color:red">This text is red</span>
-<code style="color : name_color">text</code>
+<code style="color : Gold">text</code>
 
 
 Exercises that help you understand parallel-computing using different mechanisms.
