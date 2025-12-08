@@ -89,7 +89,7 @@ Exercises that help you understand parallel-computing using different mechanisms
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ${\color{yellow}Getting \space Started}$
 
 Instructions on compiling and running the code
 
@@ -142,7 +142,8 @@ Instructions on compiling and running the code
 
 
 <!-- PC STATS -->
-## MY PC STATS
+## ${\color{yellow}MY \space PC \space STATS}$
+
 
 CPU: AMD Ryzen 7 5700U with Radeon Graphics \\
 CPU CORES: 8 (16 NumberOfLogicalProcessors) \\
@@ -156,7 +157,7 @@ COMPILLER: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
 
 
 <!-- TESTING -->
-## TESTING
+## ${\color{yellow}TESTING}$
 ### Exercise 1
 
 |    Input Size (n)  |   Threads   |   Initialization Time (ns)   |   Sequential Time (ns)   |   Parallel Time (ns)   |   Speedup   *(Seq / Par)* |
