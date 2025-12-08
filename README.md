@@ -1,5 +1,9 @@
 # parallel-computing
 <span style="color:light-green; font-weight:bold; font-size:x-large">parallel-computing</span>
+<span style="color:green; font-weight:bold">Bold green text</span>
+<span style="color:#00bfff">Sky blue text</span>
+<span style="color:red">This text is red</span>
+
 
 Exercises that help you understand parallel-computing using different mechanisms.
 
