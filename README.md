@@ -146,7 +146,7 @@ Instructions on compiling and running the code
 |   |   |
 |:---:|:---:|
 |        ${\color{lightblue} CPU}$       |   AMD Ryzen 7 5700U with Radeon Graphics  |
-|  ${\color{lightblue}CPU \space CORES}$ |     8 (16 NumberOfLogicalProcessors)      |
+|  ${\color{lightblue}CPU \space CORES}$ |        8 -(16 Logical Processors)         |
 |        ${\color{lightblue} OS}$        |         Microsoft Windows 11 Pro          |
 | ${\color{lightblue}OS \space VERSION}$ |        10.0.26200 N/A Build 26200         |
 |     ${\color{lightblue} COMPILLER}$    | gcc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0 |
