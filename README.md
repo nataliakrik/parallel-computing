@@ -188,7 +188,7 @@ Instructions on compiling and running the code
 
 
 <!-- TESTING -->
-<a id="testing"></a>fix
+<a id="testing"></a>
 ## ${\color{yellow}TESTING}$
 
 <a id="exercise-1-testing"></a>
