@@ -10,13 +10,13 @@
 
 struct array_stats_s {
     long long int info_array_0;
-    char pad0[56];
+    //char pad0[56];
     long long int info_array_1;
-    char pad1[56];
+    //char pad1[56];
     long long int info_array_2;
-    char pad2[56];
+    //char pad2[56];
     long long int info_array_3;
-    char pad3[56];
+    //char pad3[56];
 }array_stats;
 
 struct array_stats_s *stats;
