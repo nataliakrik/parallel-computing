@@ -12,9 +12,11 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <ul>
         <li><a href="#Exercise1">Exercise 1</a></li>
         <li><a href="#Exercise2">Exercise 2</a></li>
         <li><a href="#Exercise3">Exercise 3</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -35,10 +37,45 @@
 </details>
 
 
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#exercise1-about">Exercise 1</a></li>
+        <li><a href="#exercise2-about">Exercise 2</a></li>
+        <li><a href="#exercise3-about">Exercise 3</a></li>
+      </ul>
+    </li>
+
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#exercise1-build">Exercise 1</a></li>
+        <li><a href="#exercise2-build">Exercise 2</a></li>
+        <li><a href="#exercise3-build">Exercise 3</a></li>
+      </ul>
+    </li>
+
+    <li><a href="#my-pc-stats">My PC Stats</a></li>
+
+    <li>
+      <a href="#testing">Testing</a>
+      <ul>
+        <li><a href="#exercise-1-testing">Exercise 1</a></li>
+        <li><a href="#exercise-2-testing">Exercise 2</a></li>
+        <li><a href="#exercise-3-testing">Exercise 3</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 
 <!-- ABOUT THE PROJECT -->
 ## ${\color{yellow}About \space The \space Project}$
 
+<a id="exercise1-about"></a>
 ### Exercise1
    Creates 2 polynomials of a given degree. 
    Calculates polynomial multiplication :
@@ -54,7 +91,7 @@
    Some result cases are mentioned in the output.txt file
 
 
-
+<a id="exercise2-about"></a>
 ### Exercise2
    This project test mutex lock , reader/writer locks and atomic lock.
    For each case the threads use these locks to go through the iteration 
@@ -63,6 +100,7 @@
    
    Some result cases are mentioned in the output.txt file
 
+<a id="exercise3-about"></a>
 ### Exercise3
    This Exercise uses parallel programming to count non-zero elements in the array.
    The array initialization is with random integer numbers range {0-9}
@@ -110,6 +148,7 @@
 Instructions on compiling and running the code
 
 
+<a id="exercise1-build"></a>
 ### Exercise1
 1. Open folder of the exercise you want to test
     ```sh
@@ -125,6 +164,7 @@ Instructions on compiling and running the code
    ```
    Suggested input less than 10^5
 
+<a id="exercise2-build"></a>
 ### Exercise2
 1. Open folder of the exercise you want to test
     ```sh
@@ -138,6 +178,8 @@ Instructions on compiling and running the code
    ```sh
    ./bin/test
    ```
+
+<a id="exercise3-build"></a>
 ### Exercise3
 1. Open folder of the exercise you want to test
     ```sh
@@ -175,6 +217,8 @@ Instructions on compiling and running the code
 
 <!-- TESTING -->
 ## ${\color{yellow}TESTING}$
+
+<a id="exercise-1-testing"></a>
 ### Exercise 1
 
 |    Input Size (n)  |   Threads   |   Initialization Time (ns)   |   Sequential Time (ns)   |   Parallel Time (ns)   |   Speedup   *(Seq / Par)* |
@@ -184,6 +228,7 @@ Instructions on compiling and running the code
 | 1,000,000 (10⁶)    | 8           | 36,328,191                   | 1,165,619,351,657        | 747,423,585,422        |   1.56×                   |
 
 
+<a id="exercise-2-testing"></a>
 ### Exercise 2
 
 Performance Results
@@ -204,6 +249,7 @@ At large numbers Atomic Lock is significantly faster.
 At smaller numbers the difference is not that big and some time Mutex lock might surpass even!
 
 
+<a id="exercise-3-testing"></a>
 ### Exercise 3
 
 |  Input Size | Initialization (ns) | Parallel (ns) | Sequential (ns) |
