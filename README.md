@@ -92,6 +92,21 @@
 <!-- GETTING STARTED -->
 ## ${\color{yellow}Getting \space Started}$
 
+
+### 1. Clone this repository
+1. Open terminal in the directory that you want to clone project and type
+    ```sh
+    git clone https://github.com/nataliakrik/parallel-computing.git
+   ```
+
+
+### 2. Go into the repository
+2. Open directory
+   ```sh
+   cd parallel-computing
+   ```
+
+
 Instructions on compiling and running the code
 
 
