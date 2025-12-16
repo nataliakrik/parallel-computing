@@ -42,6 +42,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
+<a id="about-the-project"></a>
 ## ${\color{yellow}About \space The \space Project}$
 
 <a id="exercise1-about"></a>
@@ -97,6 +98,7 @@
 
 
 <!-- GETTING STARTED -->
+<a id="getting-started"></a>
 ## ${\color{yellow}Getting \space Started}$
 
 
@@ -169,6 +171,7 @@ Instructions on compiling and running the code
 
 
 <!-- PC STATS -->
+<a id="my-pc-stats"></a>
 ## ${\color{yellow}MY \space PC \space STATS}$
 |   |   |
 |:---:|:---:|
@@ -185,6 +188,7 @@ Instructions on compiling and running the code
 
 
 <!-- TESTING -->
+<a id="testing"></a>fix
 ## ${\color{yellow}TESTING}$
 
 <a id="exercise-1-testing"></a>
