@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ${\color{purple}About \space The \space Project}$ 
 
 ### Exercise3
    This Exercise uses parallel programming to count non-zero elements in the array.
@@ -25,9 +25,8 @@
 
 
 
-
 <!-- GETTING STARTED -->
-## Getting Started
+## ${\color{purple}Getting \space Started}$ 
 
 Instructions on compiling and running the code
 
@@ -71,7 +70,7 @@ Instructions on compiling and running the code
 
 
 <!-- TESTING -->
-## TESTING
+## ${\color{purple}Testing}$ 
 
 ### Exercise 3
 

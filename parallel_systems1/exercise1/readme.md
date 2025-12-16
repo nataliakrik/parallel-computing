@@ -1,36 +1,6 @@
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-        <li><a href="#Exercise1">Exercise 1</a></li>
-        <li><a href="#Exercise2">Exercise 2</a></li>
-        <li><a href="#Exercise3">Exercise 3</a></li>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#Exercise1">Exercise 1</a></li>
-        <li><a href="#Exercise2">Exercise 2</a></li>
-        <li><a href="#Exercise3">Exercise 3</a></li>
-      </ul>
-    </li>
-    <li><a href="#MY-PC-STATS">MY PC STATS</a></li>
-    <li><a href="#TESTING">TESTING</a></li>
-      <ul>
-        <li><a href="#Exercise1">Exercise 1</a></li>
-        <li><a href="#Exercise2">Exercise 2</a></li>
-        <li><a href="#Exercise3">Exercise 3</a></li>
-      </ul>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ${\color{purple}About \space The \space Project}$ 
 
 ### Exercise1
    Creates 2 polynomials of a given degree. 
@@ -51,9 +21,8 @@
 
 
 
-
 <!-- GETTING STARTED -->
-## Getting Started
+## ${\color{purple}Getting \space Started}$ 
 
 Instructions on compiling and running the code
 
@@ -99,7 +68,8 @@ Instructions on compiling and running the code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TESTING -->
-## TESTING
+## ${\color{purple}Testing}$ 
+
 ### Exercise 1
 
 |    Input Size (n)  |   Threads   |   Initialization Time (ns)   |   Sequential Time (ns)   |   Parallel Time (ns)   |   Speedup   *(Seq / Par)* |

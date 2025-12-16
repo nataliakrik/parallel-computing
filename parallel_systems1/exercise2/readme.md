@@ -1,6 +1,6 @@
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ${\color{purple}About \space The \space Project}$ 
 
 ### Exercise2
    This project test mutex lock , reader/writer locks and atomic lock.
@@ -17,7 +17,7 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ${\color{purple}Getting \space Started}$ 
 
 Instructions on compiling and running the code
 
@@ -34,6 +34,9 @@ Instructions on compiling and running the code
    ```sh
    ./bin/test
    ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- Project Structure -->
 ## ${\color{purple}Project \space Structure}$ 
@@ -55,8 +58,7 @@ Instructions on compiling and running the code
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- TESTING -->
-## TESTING
-
+## ${\color{purple}Testing}$ 
 
 ### Exercise 2
 

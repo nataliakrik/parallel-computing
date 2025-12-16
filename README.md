@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a0f8e72e-4462-4c02-889d-4bd3887be226" width="150">
-</p>
-
- 
 # ${\color{red}Parallel \space Computing}$
 
 <p align="center">
